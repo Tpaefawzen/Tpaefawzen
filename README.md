@@ -20,10 +20,6 @@ how do i intro myself
 
 # others such as hobby
 - making some piece of music since 2022, i guess
-- shitposting vids?
-- i joined ten words of wisdom in 2015 to win last place out of 491 contestants
-- i had been on 60+ minitwows to win 5 times in 2016-2018 if i remember correctly
-- i used to host a minitwow
 - i used to translate battle for bfdi episodes
 - i used to draw and post simple doodles
 
