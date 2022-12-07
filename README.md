@@ -8,6 +8,9 @@ how do i intro myself
   - esoteric: clc-intercal, pxem, dis, i guess
   - practical: POSIXism shell script + POSIX utils (awk, sed, tr, echo, cat, bc, etc.), html5, js, i forgot others
 
+## button to support me
+<a href="https://www.buymeacoffee.com/Tpaefawzen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 # what software/programming i have experienced
 - some easy game apps for android w/ unity3d in 2016
 - a simple vr game w/ wii remote to fly with a broom like a witch/wizard developed w/ unity3d and some in 2018
