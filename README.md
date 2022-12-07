@@ -1,5 +1,12 @@
 # about me
-i really *REALLY* hate introducing myself
+how do i intro myself
+
+- pc
+  - os: arch gnu/linux
+  - browser: qutebrowser
+- fav langs: IDK bc many
+  - esoteric: clc-intercal, pxem, dis, i guess
+  - practical: POSIXism shell script + POSIX utils (awk, sed, tr, echo, cat, bc, etc.), html5, js, i forgot others
 
 # what software/programming i have experienced
 - some easy game apps for android w/ unity3d in 2016
