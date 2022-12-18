@@ -7,6 +7,7 @@ how do i intro myself
 - fav langs: IDK bc many
   - esoteric: clc-intercal, pxem, dis, i guess
   - practical: POSIXism shell script + POSIX utils (awk, sed, tr, echo, cat, bc, etc.), html5, js, i forgot others
+- experienced langs: c, c++, processing, c-sharp, html+javascript, python, ruby, perl, (isn't it pointless to list every languages?)
 
 ## button to support me
 <a href="https://www.buymeacoffee.com/Tpaefawzen" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
