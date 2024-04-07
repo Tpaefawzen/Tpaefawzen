@@ -14,10 +14,10 @@ I maintain some AUR packages as this name.
   * [merecat-git](https://aur.archlinux.org/packages/merecat-git)
 
 # Portofolio as non-engineer
-## UTAU producer
+## Song producer
 * [鳴るてあなたの神裁。 (niconico)](https://www.nicovideo.jp/user/122943244)
 * [鳴るてあなたの神裁。 (YouTube)](https://www.youtube.com/@NarugamiSabaki)
 * [鳴るてあなたの神裁。 (Bandcamp)](https://narugami-sabaki.bandcamp.com/)
 
-## Shitposter, and more
+## Casual videos and more
 * [雛毛。 (YouTube)](https://www.youtube.com/@member.x.from.sai-teiki)
