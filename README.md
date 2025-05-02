@@ -11,12 +11,3 @@ I maintain some AUR packages as this name.
   * [shellshoccar-jpn-tukubai](https://aur.archlinux.org/packages/shellshoccar-jpn-tukubai)
   * [clc-intercal](https://aur.archlinux.org/packages/clc-intercal)
   * [merecat-git](https://aur.archlinux.org/packages/merecat-git)
-
-# Portofolio as non-engineer
-## Song producer
-* [鳴るてあなたの神裁。 (niconico)](https://www.nicovideo.jp/user/122943244)
-* [鳴るてあなたの神裁。 (YouTube)](https://www.youtube.com/@NarugamiSabaki)
-* [鳴るてあなたの神裁。 (Bandcamp)](https://narugami-sabaki.bandcamp.com/)
-
-## Casual videos and more
-* [雛毛。 (YouTube)](https://www.youtube.com/@member.x.from.sai-teiki)
