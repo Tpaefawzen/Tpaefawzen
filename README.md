@@ -1,3 +1,5 @@
+would like to leave GitHub because I am not really *an engineer*.
+
 ## Portofolio as somethink like a coder or whatever, engineer?
 * [TODO-app with shell script CGI things](https://github.com/Tpaefawzen/todolist.webapp.posixism)
 * [Open-usp-Tukubai but lightweight repo](https://github.com/Tpaefawzen/ShellShoccar-jpn-Tukubai-just-sh)
